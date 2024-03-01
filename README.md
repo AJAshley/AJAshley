@@ -1,6 +1,6 @@
 ### Hey, I'm Adam 👋
 
-![My Skills](https://skillicons.dev/icons?i=ae,cs,)
+![My Skills](https://skillicons.dev/icons?i=py,ruby,cs,java,js,html,css,godot,unity,discord,bots,dotnet,gradle,eclipse,visualstudio,vscode,pycharm,rails,replit,bash,powershell,git,github,gitlab,linux,notion,figma,ps,ai,pr,ae)
 
 <!--
 **AJAshley/AJAshley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
