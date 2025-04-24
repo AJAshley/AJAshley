@@ -2,4 +2,4 @@
 
 ## My Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
 
-![My Skills](https://skillicons.dev/icons?i=py,pycharm,cs,dotnet,unity,godot,java,eclipse,gradle,ruby,rails,js,html,css,bots,visualstudio,vscode,replit,bash,powershell,git,github,gitlab,linux,notion,figma,ps,ai,pr,ae)
+![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,unity,godot,java,gradle,ruby,rails,js,html,css,bots,vscode,replit,git,linux,figma,ps,pr)
